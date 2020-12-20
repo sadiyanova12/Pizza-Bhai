@@ -41,7 +41,3 @@ VSCode extensions->
 		Turn on Editor: Word Wrap
 	Inline Comment Shortcut for every lang->		ctrl+/
 	For more keyboard Shortcut reference go from menu bar -> Help -> Keyboard Shortcut reference
-		
-		
-		
-	
